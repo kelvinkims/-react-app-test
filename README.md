@@ -1,4 +1,4 @@
-## kelvin-react-app
+## kelvin-react-app demo
 
 # Getting Started with Create React App
 
